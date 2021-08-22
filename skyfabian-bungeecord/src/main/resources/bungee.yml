@@ -1,0 +1,4 @@
+name: Skyfabian
+version: ${project.version}
+main: at.skyfabian.BungeeMain
+description: All-in-One

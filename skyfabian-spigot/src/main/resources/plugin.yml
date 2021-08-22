@@ -1,0 +1,26 @@
+name: System
+version: ${project.version}
+main: at.skyfabian.Main
+api-version: 1.13
+authors: [ SkyFabian ]
+description: All-in-One
+
+commands:
+  heal:
+    description: Heile dich.
+  feed:
+    description: Heile dich.
+  gamemode:
+    description: Ändere einen Spielmodus.
+    aliases: [gm]
+  youtube:
+    description: Zeige die anforderungen für den Youtuber-Rang an.
+    aliases: [yt]
+  bewerben:
+    description: Zeige die anforderungen für eine Bewerbung an.
+    aliases: [bw, bewerbung]
+  discord:
+    description: Zeige den Discord-Link an.
+    aliases: [dc]
+  build:
+    description: Versetze dich in den Bau-Modus
